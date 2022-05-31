@@ -10,7 +10,7 @@
 
 ### 📄Project on GitHub Pages:
 
-https://GomesB07.github.io/Netflix/
+https://gomesb07.github.io/We-Care-Your-Pet/
 
 ### 🤝 Contributors
 We thank the following people who contributed to this project:
