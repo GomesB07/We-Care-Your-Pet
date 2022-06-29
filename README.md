@@ -1,14 +1,16 @@
 
-<h1 align= "center">Ride App</h1>
+<h1 align= "center">We Care Your Pet</h1>
 
 <p>Responsive layout about petshop.</p>
 
 ---
 <br>
 
-<img width="300" alt="print projeto" src="https://github.com/GomesB07/We-Care-Your-Pet/blob/master/img/Prints/Print-1.png"> |
-<img width="600" alt="print projeto" src="https://github.com/GomesB07/We-Care-Your-Pet/blob/master/img/Prints/Print-2.png">
-
+<div display= "flex">
+<img src="https://github.com/GomesB07/We-Care-Your-Pet/blob/master/img/Prints/Print-1.png" width="200">
+<img src="https://github.com/GomesB07/We-Care-Your-Pet/blob/master/img/Prints/Print-2.png" width="500">
+</div>
+															  
 ---
 <br>
 
